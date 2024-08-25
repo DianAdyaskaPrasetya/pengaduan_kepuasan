@@ -1,0 +1,22 @@
+{
+  "menu_siswa": [
+    {
+      "url": "/dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard"
+    },
+    {
+      "url": "/pengaduan/view-data-pengaduan",
+      "icon": "menu-icon tf-icons bx bx-box",
+          "name": "View Data Pengaduan",
+          "slug": "view-data-pengaduan"
+    },
+    {
+      "url": "/tanggapan/view-data-tanggapan",
+      "icon": "menu-icon tf-icons bx bx-box",
+      "name": "View Data Tanggapan",
+      "slug": "view-data-tanggapan"
+    }
+  ]
+}
